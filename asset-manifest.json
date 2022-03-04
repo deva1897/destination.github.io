@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/destination.github.io/static/css/main.e47e4e09.chunk.css",
+    "main.js": "/destination.github.io/static/js/main.bfd68605.chunk.js",
+    "main.js.map": "/destination.github.io/static/js/main.bfd68605.chunk.js.map",
+    "runtime-main.js": "/destination.github.io/static/js/runtime-main.377e30e1.js",
+    "runtime-main.js.map": "/destination.github.io/static/js/runtime-main.377e30e1.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/destination.github.io/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.0190e2de.chunk.js": "/destination.github.io/static/js/2.0190e2de.chunk.js",
+    "static/js/2.0190e2de.chunk.js.map": "/destination.github.io/static/js/2.0190e2de.chunk.js.map",
+    "index.html": "/destination.github.io/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/destination.github.io/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.e47e4e09.chunk.css.map": "/destination.github.io/static/css/main.e47e4e09.chunk.css.map",
+    "static/js/2.0190e2de.chunk.js.LICENSE.txt": "/destination.github.io/static/js/2.0190e2de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.377e30e1.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.0190e2de.chunk.js",
+    "static/css/main.e47e4e09.chunk.css",
+    "static/js/main.bfd68605.chunk.js"
+  ]
+}
